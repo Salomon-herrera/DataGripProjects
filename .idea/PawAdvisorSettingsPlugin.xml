@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="come.pawsql.plugin.SettingState">
+    <option name="activateCode" value="9116-4E4A-BB1E-D43D" />
+    <option name="dbHost" value="20.20.20.211" />
+    <option name="dbPort" value="3306" />
+    <option name="dedup" value="true" />
+    <option name="defaultDB" value="" />
+    <option name="passwd" value="Salo06031991" />
+    <option name="schemaList" value="" />
+    <option name="user" value="sherreran" />
+    <option name="userId" value="service@pawsql.com" />
+  </component>
+</project>

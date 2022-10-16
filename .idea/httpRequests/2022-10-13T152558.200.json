@@ -1,0 +1,9472 @@
+[
+  {
+    "rut": "10014134",
+    "0": "10014134",
+    "dv": "5",
+    "1": "5",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "10014134",
+    "0": "10014134",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-11-15",
+    "3": "2021-11-15"
+  },
+  {
+    "rut": "10278076",
+    "0": "10278076",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "10371223",
+    "0": "10371223",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2017-07-24",
+    "3": "2017-07-24"
+  },
+  {
+    "rut": "10371223",
+    "0": "10371223",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SUPERVISOR TANGO",
+    "2": "SUPERVISOR TANGO",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "10532758",
+    "0": "10532758",
+    "dv": "7",
+    "1": "7",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "10532758",
+    "0": "10532758",
+    "dv": "7",
+    "1": "7",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-04-12",
+    "3": "2021-04-12"
+  },
+  {
+    "rut": "10532758",
+    "0": "10532758",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "10532758",
+    "0": "10532758",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-29",
+    "3": "2021-03-29"
+  },
+  {
+    "rut": "10532758",
+    "0": "10532758",
+    "dv": "7",
+    "1": "7",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "10799779",
+    "0": "10799779",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ANALISTA",
+    "2": "ANALISTA",
+    "inicio": "2018-01-15",
+    "3": "2018-01-15"
+  },
+  {
+    "rut": "10799779",
+    "0": "10799779",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2019-07-15",
+    "3": "2019-07-15"
+  },
+  {
+    "rut": "10799779",
+    "0": "10799779",
+    "dv": "2",
+    "1": "2",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "10814926",
+    "0": "10814926",
+    "dv": "4",
+    "1": "4",
+    "servicio": "ANALISTA",
+    "2": "ANALISTA",
+    "inicio": "2018-01-15",
+    "3": "2018-01-15"
+  },
+  {
+    "rut": "10814926",
+    "0": "10814926",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-06-27",
+    "3": "2022-06-27"
+  },
+  {
+    "rut": "10856498",
+    "0": "10856498",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-11-02",
+    "3": "2020-11-02"
+  },
+  {
+    "rut": "10856498",
+    "0": "10856498",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "10868047",
+    "0": "10868047",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "10868047",
+    "0": "10868047",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "10868047",
+    "0": "10868047",
+    "dv": "4",
+    "1": "4",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2022-05-30",
+    "3": "2022-05-30"
+  },
+  {
+    "rut": "10882063",
+    "0": "10882063",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "10882063",
+    "0": "10882063",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CONFIRMACION-CENTRO",
+    "2": "CONFIRMACION-CENTRO",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "10882063",
+    "0": "10882063",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "10882063",
+    "0": "10882063",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "10882063",
+    "0": "10882063",
+    "dv": "2",
+    "1": "2",
+    "servicio": "DESCONEXIONES ANDES",
+    "2": "DESCONEXIONES ANDES",
+    "inicio": "2019-04-01",
+    "3": "2019-04-01"
+  },
+  {
+    "rut": "11205376",
+    "0": "11205376",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ANALISTA",
+    "2": "ANALISTA",
+    "inicio": "2018-02-19",
+    "3": "2018-02-19"
+  },
+  {
+    "rut": "11205376",
+    "0": "11205376",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2022-03-21",
+    "3": "2022-03-21"
+  },
+  {
+    "rut": "11205376",
+    "0": "11205376",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PARAMETROS",
+    "2": "PARAMETROS",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "",
+    "2": "",
+    "inicio": "2017-12-22",
+    "3": "2017-12-22"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-08-24",
+    "3": "2021-08-24"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2019-08-26",
+    "3": "2019-08-26"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TANGO METRO",
+    "2": "TANGO METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "11415959",
+    "0": "11415959",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-10-21",
+    "3": "2019-10-21"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-10-08",
+    "3": "2018-10-08"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORD. SENIOR-CENTRO",
+    "2": "COORD. SENIOR-CENTRO",
+    "inicio": "2021-05-03",
+    "3": "2021-05-03"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORD.NORTE (A)",
+    "2": "COORD.NORTE (A)",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-05-10",
+    "3": "2021-05-10"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "REPORTES",
+    "2": "REPORTES",
+    "inicio": "2018-10-29",
+    "3": "2018-10-29"
+  },
+  {
+    "rut": "11473031",
+    "0": "11473031",
+    "dv": "9",
+    "1": "9",
+    "servicio": "WIS AGENDA",
+    "2": "WIS AGENDA",
+    "inicio": "2019-06-03",
+    "3": "2019-06-03"
+  },
+  {
+    "rut": "11610063",
+    "0": "11610063",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "11610063",
+    "0": "11610063",
+    "dv": "0",
+    "1": "0",
+    "servicio": "GESTION COMERCIAL",
+    "2": "GESTION COMERCIAL",
+    "inicio": "2020-03-30",
+    "3": "2020-03-30"
+  },
+  {
+    "rut": "11610063",
+    "0": "11610063",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOP COMERCIAL",
+    "2": "SOP COMERCIAL",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "11610063",
+    "0": "11610063",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "11610063",
+    "0": "11610063",
+    "dv": "0",
+    "1": "0",
+    "servicio": "VENTAS",
+    "2": "VENTAS",
+    "inicio": "2020-02-17",
+    "3": "2020-02-17"
+  },
+  {
+    "rut": "12051000",
+    "0": "12051000",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "12051000",
+    "0": "12051000",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-01-11",
+    "3": "2021-01-11"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-04-12",
+    "3": "2021-04-12"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-01",
+    "3": "2021-03-01"
+  },
+  {
+    "rut": "12108705",
+    "0": "12108705",
+    "dv": "7",
+    "1": "7",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "12139736",
+    "0": "12139736",
+    "dv": "6",
+    "1": "6",
+    "servicio": "BO CERTIFICACION",
+    "2": "BO CERTIFICACION",
+    "inicio": "2022-08-22",
+    "3": "2022-08-22"
+  },
+  {
+    "rut": "12139736",
+    "0": "12139736",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-01",
+    "3": "2021-02-01"
+  },
+  {
+    "rut": "12139736",
+    "0": "12139736",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "12139736",
+    "0": "12139736",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "12398693",
+    "0": "12398693",
+    "dv": "8",
+    "1": "8",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "12398693",
+    "0": "12398693",
+    "dv": "8",
+    "1": "8",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2022-10-03",
+    "3": "2022-10-03"
+  },
+  {
+    "rut": "12398693",
+    "0": "12398693",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-05-01",
+    "3": "2022-05-01"
+  },
+  {
+    "rut": "12450193",
+    "0": "12450193",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-04-24",
+    "3": "2022-04-24"
+  },
+  {
+    "rut": "12450193",
+    "0": "12450193",
+    "dv": "8",
+    "1": "8",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-05-02",
+    "3": "2022-05-02"
+  },
+  {
+    "rut": "12468073",
+    "0": "12468073",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-06-17",
+    "3": "2019-06-17"
+  },
+  {
+    "rut": "12468073",
+    "0": "12468073",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "12468073",
+    "0": "12468073",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "12468073",
+    "0": "12468073",
+    "dv": "5",
+    "1": "5",
+    "servicio": "WISA",
+    "2": "WISA",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "12681987",
+    "0": "12681987",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ANALISTA",
+    "2": "ANALISTA",
+    "inicio": "2018-01-15",
+    "3": "2018-01-15"
+  },
+  {
+    "rut": "12681987",
+    "0": "12681987",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-12-01",
+    "3": "2021-12-01"
+  },
+  {
+    "rut": "12681987",
+    "0": "12681987",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PARAMETROS",
+    "2": "PARAMETROS",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES REAGENDAMIENTO",
+    "2": "ANDES REAGENDAMIENTO",
+    "inicio": "2018-08-06",
+    "3": "2018-08-06"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-07-30",
+    "3": "2018-07-30"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-07-17",
+    "3": "2018-07-17"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-29",
+    "3": "2020-06-29"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-07-01",
+    "3": "2022-07-01"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-09-23",
+    "3": "2019-09-23"
+  },
+  {
+    "rut": "12685761",
+    "0": "12685761",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "12801623",
+    "0": "12801623",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "12801623",
+    "0": "12801623",
+    "dv": "6",
+    "1": "6",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "12854372",
+    "0": "12854372",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "12854372",
+    "0": "12854372",
+    "dv": "4",
+    "1": "4",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "12877846",
+    "0": "12877846",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "12877846",
+    "0": "12877846",
+    "dv": "2",
+    "1": "2",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "B2B - SWAP",
+    "2": "B2B - SWAP",
+    "inicio": "2018-02-19",
+    "3": "2018-02-19"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "B2B - SWAP METRO",
+    "2": "B2B - SWAP METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-08-03",
+    "3": "2020-08-03"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-25",
+    "3": "2021-01-25"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "LIVE PERSON",
+    "2": "LIVE PERSON",
+    "inicio": "2020-02-10",
+    "3": "2020-02-10"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "LIVE PERSON - SENIOR",
+    "2": "LIVE PERSON - SENIOR",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "13036638",
+    "0": "13036638",
+    "dv": "4",
+    "1": "4",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-25",
+    "3": "2022-04-25"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ANDES REAGENDAMIENTO",
+    "2": "ANDES REAGENDAMIENTO",
+    "inicio": "2018-07-30",
+    "3": "2018-07-30"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-07-04",
+    "3": "2018-07-04"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "13045963",
+    "0": "13045963",
+    "dv": "3",
+    "1": "3",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "13073071",
+    "0": "13073071",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ANALISTA",
+    "2": "ANALISTA",
+    "inicio": "2018-03-19",
+    "3": "2018-03-19"
+  },
+  {
+    "rut": "13073071",
+    "0": "13073071",
+    "dv": "K",
+    "1": "K",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2019-12-09",
+    "3": "2019-12-09"
+  },
+  {
+    "rut": "13073071",
+    "0": "13073071",
+    "dv": "K",
+    "1": "K",
+    "servicio": "FUERZA TERRENO",
+    "2": "FUERZA TERRENO",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "13079435",
+    "0": "13079435",
+    "dv": "1",
+    "1": "1",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "13084954",
+    "0": "13084954",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "13084954",
+    "0": "13084954",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-12-01",
+    "3": "2021-12-01"
+  },
+  {
+    "rut": "13084954",
+    "0": "13084954",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "13084954",
+    "0": "13084954",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-07-01",
+    "3": "2019-07-01"
+  },
+  {
+    "rut": "13084954",
+    "0": "13084954",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "13179147",
+    "0": "13179147",
+    "dv": "K",
+    "1": "K",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-09-03",
+    "3": "2018-09-03"
+  },
+  {
+    "rut": "13179147",
+    "0": "13179147",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2019-12-16",
+    "3": "2019-12-16"
+  },
+  {
+    "rut": "13179147",
+    "0": "13179147",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "13179147",
+    "0": "13179147",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-06-18",
+    "3": "2018-06-18"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-12-01",
+    "3": "2021-12-01"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "LIVE PERSON",
+    "2": "LIVE PERSON",
+    "inicio": "2020-02-10",
+    "3": "2020-02-10"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-07-16",
+    "3": "2018-07-16"
+  },
+  {
+    "rut": "13244913",
+    "0": "13244913",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-10-28",
+    "3": "2019-10-28"
+  },
+  {
+    "rut": "13264575",
+    "0": "13264575",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "13264575",
+    "0": "13264575",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-06-29",
+    "3": "2019-06-29"
+  },
+  {
+    "rut": "13274734",
+    "0": "13274734",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-04-24",
+    "3": "2022-04-24"
+  },
+  {
+    "rut": "13295451",
+    "0": "13295451",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "13295451",
+    "0": "13295451",
+    "dv": "8",
+    "1": "8",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "AVAR METRO",
+    "2": "AVAR METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-02-18",
+    "3": "2019-02-18"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2020-01-13",
+    "3": "2020-01-13"
+  },
+  {
+    "rut": "13336825",
+    "0": "13336825",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-11-05",
+    "3": "2018-11-05"
+  },
+  {
+    "rut": "13412368",
+    "0": "13412368",
+    "dv": "0",
+    "1": "0",
+    "servicio": "REPORTING",
+    "2": "REPORTING",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "13476174",
+    "0": "13476174",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-06-20",
+    "3": "2022-06-20"
+  },
+  {
+    "rut": "13490756",
+    "0": "13490756",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-01-11",
+    "3": "2021-01-11"
+  },
+  {
+    "rut": "13490756",
+    "0": "13490756",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-08-16",
+    "3": "2021-08-16"
+  },
+  {
+    "rut": "13490756",
+    "0": "13490756",
+    "dv": "8",
+    "1": "8",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "13490756",
+    "0": "13490756",
+    "dv": "8",
+    "1": "8",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "13519646",
+    "0": "13519646",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "13519646",
+    "0": "13519646",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "13531145",
+    "0": "13531145",
+    "dv": "6",
+    "1": "6",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "13531145",
+    "0": "13531145",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-11-15",
+    "3": "2021-11-15"
+  },
+  {
+    "rut": "13531145",
+    "0": "13531145",
+    "dv": "6",
+    "1": "6",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-12-13",
+    "3": "2021-12-13"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-10-08",
+    "3": "2018-10-08"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2019-06-17",
+    "3": "2019-06-17"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-09-01",
+    "3": "2022-09-01"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-12-10",
+    "3": "2018-12-10"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "REGULARIZACION ANDES",
+    "2": "REGULARIZACION ANDES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "13567142",
+    "0": "13567142",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SOPORTE TECNICO",
+    "2": "SOPORTE TECNICO",
+    "inicio": "2019-06-03",
+    "3": "2019-06-03"
+  },
+  {
+    "rut": "13658268",
+    "0": "13658268",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-06-15",
+    "3": "2020-06-15"
+  },
+  {
+    "rut": "13658268",
+    "0": "13658268",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "13658268",
+    "0": "13658268",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-01",
+    "3": "2021-03-01"
+  },
+  {
+    "rut": "13664581",
+    "0": "13664581",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "13664581",
+    "0": "13664581",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "13665658",
+    "0": "13665658",
+    "dv": "9",
+    "1": "9",
+    "servicio": "",
+    "2": "",
+    "inicio": "2021-07-19",
+    "3": "2021-07-19"
+  },
+  {
+    "rut": "13665658",
+    "0": "13665658",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-08-02",
+    "3": "2021-08-02"
+  },
+  {
+    "rut": "13665658",
+    "0": "13665658",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO SIX",
+    "2": "PROYECTO SIX",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "13671765",
+    "0": "13671765",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-ORIENTE",
+    "2": "COORD. SENIOR-ORIENTE",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "13671765",
+    "0": "13671765",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "13671765",
+    "0": "13671765",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-08-16",
+    "3": "2021-08-16"
+  },
+  {
+    "rut": "13679252",
+    "0": "13679252",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-01-11",
+    "3": "2021-01-11"
+  },
+  {
+    "rut": "13679252",
+    "0": "13679252",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "13679252",
+    "0": "13679252",
+    "dv": "0",
+    "1": "0",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "13679461",
+    "0": "13679461",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-08-23",
+    "3": "2021-08-23"
+  },
+  {
+    "rut": "13682509",
+    "0": "13682509",
+    "dv": "7",
+    "1": "7",
+    "servicio": "BO CERTIFICACION",
+    "2": "BO CERTIFICACION",
+    "inicio": "2022-09-01",
+    "3": "2022-09-01"
+  },
+  {
+    "rut": "13682509",
+    "0": "13682509",
+    "dv": "7",
+    "1": "7",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "13682509",
+    "0": "13682509",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "13687254",
+    "0": "13687254",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "13687254",
+    "0": "13687254",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SUPERVISOR ANDES",
+    "2": "SUPERVISOR ANDES",
+    "inicio": "2019-07-29",
+    "3": "2019-07-29"
+  },
+  {
+    "rut": "13698473",
+    "0": "13698473",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "13698473",
+    "0": "13698473",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-03-21",
+    "3": "2022-03-21"
+  },
+  {
+    "rut": "13828215",
+    "0": "13828215",
+    "dv": "5",
+    "1": "5",
+    "servicio": "",
+    "2": "",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "13828215",
+    "0": "13828215",
+    "dv": "5",
+    "1": "5",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "13841286",
+    "0": "13841286",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-03-29",
+    "3": "2021-03-29"
+  },
+  {
+    "rut": "13841286",
+    "0": "13841286",
+    "dv": "5",
+    "1": "5",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "13928866",
+    "0": "13928866",
+    "dv": "1",
+    "1": "1",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-09-03",
+    "3": "2018-09-03"
+  },
+  {
+    "rut": "13928866",
+    "0": "13928866",
+    "dv": "1",
+    "1": "1",
+    "servicio": "AVAR N2",
+    "2": "AVAR N2",
+    "inicio": "2018-11-26",
+    "3": "2018-11-26"
+  },
+  {
+    "rut": "13928866",
+    "0": "13928866",
+    "dv": "1",
+    "1": "1",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2019-12-09",
+    "3": "2019-12-09"
+  },
+  {
+    "rut": "13928866",
+    "0": "13928866",
+    "dv": "1",
+    "1": "1",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "13942011",
+    "0": "13942011",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "13942011",
+    "0": "13942011",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "14316304",
+    "0": "14316304",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-06-20",
+    "3": "2022-06-20"
+  },
+  {
+    "rut": "14316304",
+    "0": "14316304",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-03-29",
+    "3": "2021-03-29"
+  },
+  {
+    "rut": "14316304",
+    "0": "14316304",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-05-01",
+    "3": "2022-05-01"
+  },
+  {
+    "rut": "14339579",
+    "0": "14339579",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-ORIENTE",
+    "2": "COORD. SENIOR-ORIENTE",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "14339579",
+    "0": "14339579",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-11-30",
+    "3": "2020-11-30"
+  },
+  {
+    "rut": "14350792",
+    "0": "14350792",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "14350792",
+    "0": "14350792",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SUPERVISOR TANGO",
+    "2": "SUPERVISOR TANGO",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "14381777",
+    "0": "14381777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CCR",
+    "2": "CCR",
+    "inicio": "2019-12-02",
+    "3": "2019-12-02"
+  },
+  {
+    "rut": "14381777",
+    "0": "14381777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CCR-1",
+    "2": "CCR-1",
+    "inicio": "2020-01-27",
+    "3": "2020-01-27"
+  },
+  {
+    "rut": "14381777",
+    "0": "14381777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "14383670",
+    "0": "14383670",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "14383670",
+    "0": "14383670",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "14383670",
+    "0": "14383670",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-09-30",
+    "3": "2019-09-30"
+  },
+  {
+    "rut": "14429798",
+    "0": "14429798",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-06-17",
+    "3": "2019-06-17"
+  },
+  {
+    "rut": "14635445",
+    "0": "14635445",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "14635445",
+    "0": "14635445",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "15232061",
+    "0": "15232061",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "15232061",
+    "0": "15232061",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SUPERVISOR ANDES",
+    "2": "SUPERVISOR ANDES",
+    "inicio": "2019-07-29",
+    "3": "2019-07-29"
+  },
+  {
+    "rut": "15327146",
+    "0": "15327146",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "15327146",
+    "0": "15327146",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-10-22",
+    "3": "2018-10-22"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "B2B - SWAP",
+    "2": "B2B - SWAP",
+    "inicio": "2019-07-15",
+    "3": "2019-07-15"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-SUR",
+    "2": "COORD. SENIOR-SUR",
+    "inicio": "2021-05-17",
+    "3": "2021-05-17"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-07-13",
+    "3": "2020-07-13"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-05-02",
+    "3": "2022-05-02"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "15333425",
+    "0": "15333425",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORD. SENIOR-CENTRO",
+    "2": "COORD. SENIOR-CENTRO",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORD.METRO (A)",
+    "2": "COORD.METRO (A)",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "15347872",
+    "0": "15347872",
+    "dv": "4",
+    "1": "4",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "15354458",
+    "0": "15354458",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CONOCIMIENTO OPERATIVO",
+    "2": "CONOCIMIENTO OPERATIVO",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "15367655",
+    "0": "15367655",
+    "dv": "0",
+    "1": "0",
+    "servicio": "B2B - SWAP",
+    "2": "B2B - SWAP",
+    "inicio": "2018-03-12",
+    "3": "2018-03-12"
+  },
+  {
+    "rut": "15367655",
+    "0": "15367655",
+    "dv": "0",
+    "1": "0",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-03-07",
+    "3": "2018-03-07"
+  },
+  {
+    "rut": "15367655",
+    "0": "15367655",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2018-08-27",
+    "3": "2018-08-27"
+  },
+  {
+    "rut": "15367655",
+    "0": "15367655",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-07-04",
+    "3": "2018-07-04"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "B2B - SWAP",
+    "2": "B2B - SWAP",
+    "inicio": "2018-08-27",
+    "3": "2018-08-27"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2020-05-06",
+    "3": "2020-05-06"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "15400777",
+    "0": "15400777",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-07-16",
+    "3": "2018-07-16"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-04",
+    "3": "2019-03-04"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-03-23",
+    "3": "2019-03-23"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "TORRE CONTROL",
+    "2": "TORRE CONTROL",
+    "inicio": "2018-10-08",
+    "3": "2018-10-08"
+  },
+  {
+    "rut": "15418456",
+    "0": "15418456",
+    "dv": "2",
+    "1": "2",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "15424519",
+    "0": "15424519",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "15424519",
+    "0": "15424519",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-07-01",
+    "3": "2022-07-01"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CONFIRMACION-CENTRO",
+    "2": "CONFIRMACION-CENTRO",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-15",
+    "3": "2019-04-15"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "15439751",
+    "0": "15439751",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-05-08",
+    "3": "2018-05-08"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "TORRE CONTROL",
+    "2": "TORRE CONTROL",
+    "inicio": "2018-07-02",
+    "3": "2018-07-02"
+  },
+  {
+    "rut": "15510811",
+    "0": "15510811",
+    "dv": "8",
+    "1": "8",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-05-21",
+    "3": "2018-05-21"
+  },
+  {
+    "rut": "15540646",
+    "0": "15540646",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-05-16",
+    "3": "2022-05-16"
+  },
+  {
+    "rut": "15540646",
+    "0": "15540646",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "15540646",
+    "0": "15540646",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2020-02-03",
+    "3": "2020-02-03"
+  },
+  {
+    "rut": "15540646",
+    "0": "15540646",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "15540646",
+    "0": "15540646",
+    "dv": "1",
+    "1": "1",
+    "servicio": "NUEVOS INGRESOS",
+    "2": "NUEVOS INGRESOS",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "15587071",
+    "0": "15587071",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-04-24",
+    "3": "2022-04-24"
+  },
+  {
+    "rut": "15590393",
+    "0": "15590393",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-06-17",
+    "3": "2019-06-17"
+  },
+  {
+    "rut": "15590393",
+    "0": "15590393",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "15590393",
+    "0": "15590393",
+    "dv": "7",
+    "1": "7",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "15601331",
+    "0": "15601331",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-08-03",
+    "3": "2020-08-03"
+  },
+  {
+    "rut": "15601331",
+    "0": "15601331",
+    "dv": "5",
+    "1": "5",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "15667195",
+    "0": "15667195",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "15667195",
+    "0": "15667195",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "15667195",
+    "0": "15667195",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "15671994",
+    "0": "15671994",
+    "dv": "3",
+    "1": "3",
+    "servicio": "Certificación",
+    "2": "Certificación",
+    "inicio": "2021-11-02",
+    "3": "2021-11-02"
+  },
+  {
+    "rut": "15671994",
+    "0": "15671994",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "15671994",
+    "0": "15671994",
+    "dv": "3",
+    "1": "3",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-11-22",
+    "3": "2021-11-22"
+  },
+  {
+    "rut": "15776524",
+    "0": "15776524",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "15776524",
+    "0": "15776524",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "15776524",
+    "0": "15776524",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "15776524",
+    "0": "15776524",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-01",
+    "3": "2021-03-01"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-03-18",
+    "3": "2019-03-18"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORD. SENIOR-ORIENTE",
+    "2": "COORD. SENIOR-ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-10-05",
+    "3": "2020-10-05"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR SENIOR - MET.OTE",
+    "2": "COORDINADOR SENIOR - MET.OTE",
+    "inicio": "2019-10-21",
+    "3": "2019-10-21"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-MET.OTE",
+    "2": "COORDINADOR-MET.OTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "15794626",
+    "0": "15794626",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-03-25",
+    "3": "2019-03-25"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-04-01",
+    "3": "2019-04-01"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-03-18",
+    "3": "2019-03-18"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2019-04-15",
+    "3": "2019-04-15"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CONFIRMACION-CENTRO",
+    "2": "CONFIRMACION-CENTRO",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORD. SENIOR-ORIENTE",
+    "2": "COORD. SENIOR-ORIENTE",
+    "inicio": "2021-02-01",
+    "3": "2021-02-01"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-MET.OTE",
+    "2": "COORDINADOR-MET.OTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "15798554",
+    "0": "15798554",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ANDES APOYO",
+    "2": "ANDES APOYO",
+    "inicio": "2018-07-16",
+    "3": "2018-07-16"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-05-28",
+    "3": "2018-05-28"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-11-22",
+    "3": "2021-11-22"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-04-16",
+    "3": "2018-04-16"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-06-07",
+    "3": "2021-06-07"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "OPERACION ANDES",
+    "2": "OPERACION ANDES",
+    "inicio": "2018-05-21",
+    "3": "2018-05-21"
+  },
+  {
+    "rut": "15843967",
+    "0": "15843967",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "15864689",
+    "0": "15864689",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-08-03",
+    "3": "2020-08-03"
+  },
+  {
+    "rut": "15889905",
+    "0": "15889905",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2017-07-24",
+    "3": "2017-07-24"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-19",
+    "3": "2018-11-19"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-03-04",
+    "3": "2019-03-04"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-10-04",
+    "3": "2021-10-04"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "15890910",
+    "0": "15890910",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-11-11",
+    "3": "2019-11-11"
+  },
+  {
+    "rut": "15892992",
+    "0": "15892992",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "15892992",
+    "0": "15892992",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-02-21",
+    "3": "2022-02-21"
+  },
+  {
+    "rut": "15900717",
+    "0": "15900717",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "15939701",
+    "0": "15939701",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2021-12-13",
+    "3": "2021-12-13"
+  },
+  {
+    "rut": "15939701",
+    "0": "15939701",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "16068235",
+    "0": "16068235",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "16068235",
+    "0": "16068235",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "16075842",
+    "0": "16075842",
+    "dv": "2",
+    "1": "2",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "16126340",
+    "0": "16126340",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2020-07-13",
+    "3": "2020-07-13"
+  },
+  {
+    "rut": "16126340",
+    "0": "16126340",
+    "dv": "0",
+    "1": "0",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-29",
+    "3": "2020-06-29"
+  },
+  {
+    "rut": "16169461",
+    "0": "16169461",
+    "dv": "4",
+    "1": "4",
+    "servicio": "",
+    "2": "",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "16169461",
+    "0": "16169461",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "16190828",
+    "0": "16190828",
+    "dv": "2",
+    "1": "2",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "16190828",
+    "0": "16190828",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "16248083",
+    "0": "16248083",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "16248083",
+    "0": "16248083",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "16267357",
+    "0": "16267357",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "16267357",
+    "0": "16267357",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "16267357",
+    "0": "16267357",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE FTTH",
+    "2": "SOPORTE FTTH",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "16267829",
+    "0": "16267829",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "16267829",
+    "0": "16267829",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "16280891",
+    "0": "16280891",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "16280891",
+    "0": "16280891",
+    "dv": "5",
+    "1": "5",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "16280891",
+    "0": "16280891",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "16280891",
+    "0": "16280891",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-03-25",
+    "3": "2019-03-25"
+  },
+  {
+    "rut": "16280891",
+    "0": "16280891",
+    "dv": "5",
+    "1": "5",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-01-11",
+    "3": "2018-01-11"
+  },
+  {
+    "rut": "16317083",
+    "0": "16317083",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "16317083",
+    "0": "16317083",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "16317083",
+    "0": "16317083",
+    "dv": "3",
+    "1": "3",
+    "servicio": "WISA",
+    "2": "WISA",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "16367258",
+    "0": "16367258",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-08-31",
+    "3": "2020-08-31"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "APOYO ATC",
+    "2": "APOYO ATC",
+    "inicio": "2020-04-20",
+    "3": "2020-04-20"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-02-18",
+    "3": "2019-02-18"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-09-23",
+    "3": "2019-09-23"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-11-19",
+    "3": "2018-11-19"
+  },
+  {
+    "rut": "16390043",
+    "0": "16390043",
+    "dv": "2",
+    "1": "2",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-11-11",
+    "3": "2019-11-11"
+  },
+  {
+    "rut": "16392487",
+    "0": "16392487",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "16392487",
+    "0": "16392487",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-08-31",
+    "3": "2020-08-31"
+  },
+  {
+    "rut": "16412068",
+    "0": "16412068",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-06-15",
+    "3": "2020-06-15"
+  },
+  {
+    "rut": "16412068",
+    "0": "16412068",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-08-24",
+    "3": "2020-08-24"
+  },
+  {
+    "rut": "16412068",
+    "0": "16412068",
+    "dv": "6",
+    "1": "6",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "16412068",
+    "0": "16412068",
+    "dv": "6",
+    "1": "6",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-09-01",
+    "3": "2022-09-01"
+  },
+  {
+    "rut": "16421223",
+    "0": "16421223",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SUPERVISOR ANDES",
+    "2": "SUPERVISOR ANDES",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "16427408",
+    "0": "16427408",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "16427408",
+    "0": "16427408",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-08-31",
+    "3": "2020-08-31"
+  },
+  {
+    "rut": "16470833",
+    "0": "16470833",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "16470833",
+    "0": "16470833",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "16584266",
+    "0": "16584266",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "16584266",
+    "0": "16584266",
+    "dv": "9",
+    "1": "9",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "16584266",
+    "0": "16584266",
+    "dv": "9",
+    "1": "9",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-11-26",
+    "3": "2018-11-26"
+  },
+  {
+    "rut": "16584266",
+    "0": "16584266",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "16584266",
+    "0": "16584266",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2019-03-04",
+    "3": "2019-03-04"
+  },
+  {
+    "rut": "16623607",
+    "0": "16623607",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "16623607",
+    "0": "16623607",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "16623607",
+    "0": "16623607",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-03-16",
+    "3": "2022-03-16"
+  },
+  {
+    "rut": "16682123",
+    "0": "16682123",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORD. SENIOR-NORTE",
+    "2": "COORD. SENIOR-NORTE",
+    "inicio": "2022-06-13",
+    "3": "2022-06-13"
+  },
+  {
+    "rut": "16682123",
+    "0": "16682123",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "16719602",
+    "0": "16719602",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-06-20",
+    "3": "2022-06-20"
+  },
+  {
+    "rut": "16788403",
+    "0": "16788403",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-11-30",
+    "3": "2020-11-30"
+  },
+  {
+    "rut": "16788403",
+    "0": "16788403",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-12-28",
+    "3": "2020-12-28"
+  },
+  {
+    "rut": "16797621",
+    "0": "16797621",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "16797621",
+    "0": "16797621",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "16797621",
+    "0": "16797621",
+    "dv": "2",
+    "1": "2",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "16813862",
+    "0": "16813862",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORD. SENIOR-SUR",
+    "2": "COORD. SENIOR-SUR",
+    "inicio": "2022-09-01",
+    "3": "2022-09-01"
+  },
+  {
+    "rut": "16813862",
+    "0": "16813862",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORD. SENIOR-NORTE",
+    "2": "COORD. SENIOR-NORTE",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2020-02-17",
+    "3": "2020-02-17"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "16826587",
+    "0": "16826587",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SENIOR CIO",
+    "2": "SENIOR CIO",
+    "inicio": "2022-05-01",
+    "3": "2022-05-01"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-10-15",
+    "3": "2018-10-15"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "BACKOFFICE TORRE",
+    "2": "BACKOFFICE TORRE",
+    "inicio": "2019-11-04",
+    "3": "2019-11-04"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-25",
+    "3": "2021-01-25"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TANGO METRO",
+    "2": "TANGO METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "16839504",
+    "0": "16839504",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-10-22",
+    "3": "2018-10-22"
+  },
+  {
+    "rut": "16886425",
+    "0": "16886425",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-04-24",
+    "3": "2022-04-24"
+  },
+  {
+    "rut": "16901718",
+    "0": "16901718",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "16901718",
+    "0": "16901718",
+    "dv": "2",
+    "1": "2",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "16912004",
+    "0": "16912004",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "16912004",
+    "0": "16912004",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-06-15",
+    "3": "2020-06-15"
+  },
+  {
+    "rut": "16912004",
+    "0": "16912004",
+    "dv": "8",
+    "1": "8",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "16939194",
+    "0": "16939194",
+    "dv": "7",
+    "1": "7",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2017-07-24",
+    "3": "2017-07-24"
+  },
+  {
+    "rut": "16939194",
+    "0": "16939194",
+    "dv": "7",
+    "1": "7",
+    "servicio": "SUPERVISOR ANDES",
+    "2": "SUPERVISOR ANDES",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "",
+    "2": "",
+    "inicio": "2017-12-24",
+    "3": "2017-12-24"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-10-04",
+    "3": "2021-10-04"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-09-03",
+    "3": "2018-09-03"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-02-04",
+    "3": "2019-02-04"
+  },
+  {
+    "rut": "17010897",
+    "0": "17010897",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "17012457",
+    "0": "17012457",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-08-24",
+    "3": "2020-08-24"
+  },
+  {
+    "rut": "17012457",
+    "0": "17012457",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-09-30",
+    "3": "2019-09-30"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-06-29",
+    "3": "2020-06-29"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-07-20",
+    "3": "2020-07-20"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "LIVE PERSON",
+    "2": "LIVE PERSON",
+    "inicio": "2020-02-10",
+    "3": "2020-02-10"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TANGO METRO",
+    "2": "TANGO METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "17049947",
+    "0": "17049947",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-10-21",
+    "3": "2019-10-21"
+  },
+  {
+    "rut": "17069547",
+    "0": "17069547",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-08-31",
+    "3": "2020-08-31"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES GESTION",
+    "2": "ANDES GESTION",
+    "inicio": "2018-08-13",
+    "3": "2018-08-13"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-05-21",
+    "3": "2018-05-21"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2021-05-03",
+    "3": "2021-05-03"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2019-08-19",
+    "3": "2019-08-19"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "OPERACION ANDES",
+    "2": "OPERACION ANDES",
+    "inicio": "2018-05-07",
+    "3": "2018-05-07"
+  },
+  {
+    "rut": "17071589",
+    "0": "17071589",
+    "dv": "6",
+    "1": "6",
+    "servicio": "REPORTES",
+    "2": "REPORTES",
+    "inicio": "2018-12-10",
+    "3": "2018-12-10"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-08-06",
+    "3": "2018-08-06"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-02-19",
+    "3": "2018-02-19"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR SENIOR - MET.SUR",
+    "2": "COORDINADOR SENIOR - MET.SUR",
+    "inicio": "2019-10-07",
+    "3": "2019-10-07"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR SENIOR - ORIENTE",
+    "2": "COORDINADOR SENIOR - ORIENTE",
+    "inicio": "2019-09-30",
+    "3": "2019-09-30"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2018-03-05",
+    "3": "2018-03-05"
+  },
+  {
+    "rut": "17073904",
+    "0": "17073904",
+    "dv": "3",
+    "1": "3",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "17098191",
+    "0": "17098191",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "17142081",
+    "0": "17142081",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "17142081",
+    "0": "17142081",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-11-16",
+    "3": "2020-11-16"
+  },
+  {
+    "rut": "17150940",
+    "0": "17150940",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CCR",
+    "2": "CCR",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "17150940",
+    "0": "17150940",
+    "dv": "8",
+    "1": "8",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "17218089",
+    "0": "17218089",
+    "dv": "2",
+    "1": "2",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17218089",
+    "0": "17218089",
+    "dv": "2",
+    "1": "2",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "17218089",
+    "0": "17218089",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "17253448",
+    "0": "17253448",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "17253448",
+    "0": "17253448",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-19",
+    "3": "2018-11-19"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "AVAR METRO",
+    "2": "AVAR METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORD. SENIOR-ORIENTE",
+    "2": "COORD. SENIOR-ORIENTE",
+    "inicio": "2020-10-05",
+    "3": "2020-10-05"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINADOR-MET.OTE",
+    "2": "COORDINADOR-MET.OTE",
+    "inicio": "2020-01-13",
+    "3": "2020-01-13"
+  },
+  {
+    "rut": "17267014",
+    "0": "17267014",
+    "dv": "8",
+    "1": "8",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-06-13",
+    "3": "2022-06-13"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-CENTRO",
+    "2": "COORD. SENIOR-CENTRO",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-SUR",
+    "2": "COORD. SENIOR-SUR",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR SENIOR - SUR",
+    "2": "COORDINADOR SENIOR - SUR",
+    "inicio": "2020-02-24",
+    "3": "2020-02-24"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "17280809",
+    "0": "17280809",
+    "dv": "3",
+    "1": "3",
+    "servicio": "SUPERVISOR INTERINO",
+    "2": "SUPERVISOR INTERINO",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "17289656",
+    "0": "17289656",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "17289656",
+    "0": "17289656",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-06-20",
+    "3": "2022-06-20"
+  },
+  {
+    "rut": "17312370",
+    "0": "17312370",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ANDES APOYO",
+    "2": "ANDES APOYO",
+    "inicio": "2018-07-30",
+    "3": "2018-07-30"
+  },
+  {
+    "rut": "17312370",
+    "0": "17312370",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-06-04",
+    "3": "2018-06-04"
+  },
+  {
+    "rut": "17312370",
+    "0": "17312370",
+    "dv": "1",
+    "1": "1",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-11-06",
+    "3": "2017-11-06"
+  },
+  {
+    "rut": "17312370",
+    "0": "17312370",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "17312370",
+    "0": "17312370",
+    "dv": "1",
+    "1": "1",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "17328135",
+    "0": "17328135",
+    "dv": "8",
+    "1": "8",
+    "servicio": "FUERZA TERRENO",
+    "2": "FUERZA TERRENO",
+    "inicio": "2018-03-19",
+    "3": "2018-03-19"
+  },
+  {
+    "rut": "17375559",
+    "0": "17375559",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "17377029",
+    "0": "17377029",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "17388884",
+    "0": "17388884",
+    "dv": "8",
+    "1": "8",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CONFIRMACION-SUR",
+    "2": "CONFIRMACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-SUR",
+    "2": "COORD. SENIOR-SUR",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "17389605",
+    "0": "17389605",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "17416544",
+    "0": "17416544",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "17423995",
+    "0": "17423995",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-03-29",
+    "3": "2021-03-29"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-07-12",
+    "3": "2021-07-12"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SENIOR",
+    "2": "SENIOR",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TANGO METRO",
+    "2": "TANGO METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-05",
+    "3": "2019-08-05"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-01-22",
+    "3": "2018-01-22"
+  },
+  {
+    "rut": "17425021",
+    "0": "17425021",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-11-11",
+    "3": "2019-11-11"
+  },
+  {
+    "rut": "17428630",
+    "0": "17428630",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2021-05-31",
+    "3": "2021-05-31"
+  },
+  {
+    "rut": "17428630",
+    "0": "17428630",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "17463372",
+    "0": "17463372",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "17463372",
+    "0": "17463372",
+    "dv": "K",
+    "1": "K",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "17463372",
+    "0": "17463372",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "17479007",
+    "0": "17479007",
+    "dv": "8",
+    "1": "8",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-01-14",
+    "3": "2019-01-14"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "17522369",
+    "0": "17522369",
+    "dv": "K",
+    "1": "K",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-12-10",
+    "3": "2018-12-10"
+  },
+  {
+    "rut": "17599870",
+    "0": "17599870",
+    "dv": "5",
+    "1": "5",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17599870",
+    "0": "17599870",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "17599870",
+    "0": "17599870",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "17603589",
+    "0": "17603589",
+    "dv": "7",
+    "1": "7",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "17609966",
+    "0": "17609966",
+    "dv": "6",
+    "1": "6",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "17609966",
+    "0": "17609966",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE FTTH",
+    "2": "SOPORTE FTTH",
+    "inicio": "2022-08-10",
+    "3": "2022-08-10"
+  },
+  {
+    "rut": "17612825",
+    "0": "17612825",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "17612825",
+    "0": "17612825",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "17612825",
+    "0": "17612825",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "17612825",
+    "0": "17612825",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "APOQUINDO",
+    "2": "APOQUINDO",
+    "inicio": "2021-12-01",
+    "3": "2021-12-01"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-10-14",
+    "3": "2019-10-14"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-03-25",
+    "3": "2019-03-25"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "17621998",
+    "0": "17621998",
+    "dv": "K",
+    "1": "K",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2019-12-30",
+    "3": "2019-12-30"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "",
+    "2": "",
+    "inicio": "2017-12-22",
+    "3": "2017-12-22"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2018-10-08",
+    "3": "2018-10-08"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-02-04",
+    "3": "2019-02-04"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE FTTH",
+    "2": "SOPORTE FTTH",
+    "inicio": "2022-08-10",
+    "3": "2022-08-10"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE CONTROL",
+    "2": "TORRE CONTROL",
+    "inicio": "2018-06-04",
+    "3": "2018-06-04"
+  },
+  {
+    "rut": "17622541",
+    "0": "17622541",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-01-22",
+    "3": "2018-01-22"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES REDES",
+    "2": "ANDES REDES",
+    "inicio": "2018-07-02",
+    "3": "2018-07-02"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-06-25",
+    "3": "2018-06-25"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-09-18",
+    "3": "2017-09-18"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2018-08-27",
+    "3": "2018-08-27"
+  },
+  {
+    "rut": "17664997",
+    "0": "17664997",
+    "dv": "6",
+    "1": "6",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2017-12-25",
+    "3": "2017-12-25"
+  },
+  {
+    "rut": "17677593",
+    "0": "17677593",
+    "dv": "9",
+    "1": "9",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "17677593",
+    "0": "17677593",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CCR",
+    "2": "CCR",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "17677593",
+    "0": "17677593",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CCR-1",
+    "2": "CCR-1",
+    "inicio": "2020-01-27",
+    "3": "2020-01-27"
+  },
+  {
+    "rut": "17677593",
+    "0": "17677593",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-01",
+    "3": "2021-02-01"
+  },
+  {
+    "rut": "17677593",
+    "0": "17677593",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "17709493",
+    "0": "17709493",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CCR",
+    "2": "CCR",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "17709493",
+    "0": "17709493",
+    "dv": "5",
+    "1": "5",
+    "servicio": "FUENTES DE PODER",
+    "2": "FUENTES DE PODER",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "17709493",
+    "0": "17709493",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ANALISIS Y DESARROLLO",
+    "2": "ANALISIS Y DESARROLLO",
+    "inicio": "2020-02-24",
+    "3": "2020-02-24"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "DESARROLLO",
+    "2": "DESARROLLO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "PRUEBA",
+    "2": "PRUEBA",
+    "inicio": "2022-01-11",
+    "3": "2022-01-11"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "REPORTES",
+    "2": "REPORTES",
+    "inicio": "2019-01-07",
+    "3": "2019-01-07"
+  },
+  {
+    "rut": "17711411",
+    "0": "17711411",
+    "dv": "1",
+    "1": "1",
+    "servicio": "REPORTING",
+    "2": "REPORTING",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "17762942",
+    "0": "17762942",
+    "dv": "1",
+    "1": "1",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2019-12-30",
+    "3": "2019-12-30"
+  },
+  {
+    "rut": "17762942",
+    "0": "17762942",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "17762942",
+    "0": "17762942",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2020-07-27",
+    "3": "2020-07-27"
+  },
+  {
+    "rut": "17769200",
+    "0": "17769200",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "17769200",
+    "0": "17769200",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "17769200",
+    "0": "17769200",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "17769200",
+    "0": "17769200",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-05-31",
+    "3": "2021-05-31"
+  },
+  {
+    "rut": "17769200",
+    "0": "17769200",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-05-16",
+    "3": "2022-05-16"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "BACKOFFICE TORRE",
+    "2": "BACKOFFICE TORRE",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-09-27",
+    "3": "2021-09-27"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-01-11",
+    "3": "2018-01-11"
+  },
+  {
+    "rut": "17771634",
+    "0": "17771634",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "17782443",
+    "0": "17782443",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "17839238",
+    "0": "17839238",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "17840324",
+    "0": "17840324",
+    "dv": "9",
+    "1": "9",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-03-01",
+    "3": "2018-03-01"
+  },
+  {
+    "rut": "17840324",
+    "0": "17840324",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "17840324",
+    "0": "17840324",
+    "dv": "9",
+    "1": "9",
+    "servicio": "SENIOR",
+    "2": "SENIOR",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "17840324",
+    "0": "17840324",
+    "dv": "9",
+    "1": "9",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-03-19",
+    "3": "2018-03-19"
+  },
+  {
+    "rut": "17849869",
+    "0": "17849869",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "17849869",
+    "0": "17849869",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "17862750",
+    "0": "17862750",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-SUR",
+    "2": "COORD. SENIOR-SUR",
+    "inicio": "2022-05-01",
+    "3": "2022-05-01"
+  },
+  {
+    "rut": "17862750",
+    "0": "17862750",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-11",
+    "3": "2019-03-11"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-04-01",
+    "3": "2019-04-01"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-03-25",
+    "3": "2019-03-25"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "17903212",
+    "0": "17903212",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2020-07-27",
+    "3": "2020-07-27"
+  },
+  {
+    "rut": "17926682",
+    "0": "17926682",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORD. SENIOR-CENTRO",
+    "2": "COORD. SENIOR-CENTRO",
+    "inicio": "2021-08-02",
+    "3": "2021-08-02"
+  },
+  {
+    "rut": "17926682",
+    "0": "17926682",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "17927939",
+    "0": "17927939",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "17927939",
+    "0": "17927939",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "17949450",
+    "0": "17949450",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "17949450",
+    "0": "17949450",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "17949450",
+    "0": "17949450",
+    "dv": "7",
+    "1": "7",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "17949450",
+    "0": "17949450",
+    "dv": "7",
+    "1": "7",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "17963076",
+    "0": "17963076",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "17963076",
+    "0": "17963076",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-06-13",
+    "3": "2022-06-13"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "",
+    "2": "",
+    "inicio": "2017-12-22",
+    "3": "2017-12-22"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ANALISIS Y DESARROLLO",
+    "2": "ANALISIS Y DESARROLLO",
+    "inicio": "2020-01-13",
+    "3": "2020-01-13"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-12-18",
+    "3": "2017-12-18"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2018-02-26",
+    "3": "2018-02-26"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "DX TEATINOS",
+    "2": "DX TEATINOS",
+    "inicio": "2018-01-08",
+    "3": "2018-01-08"
+  },
+  {
+    "rut": "18017745",
+    "0": "18017745",
+    "dv": "0",
+    "1": "0",
+    "servicio": "REPORTES",
+    "2": "REPORTES",
+    "inicio": "2018-06-25",
+    "3": "2018-06-25"
+  },
+  {
+    "rut": "18034182",
+    "0": "18034182",
+    "dv": "K",
+    "1": "K",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-12-13",
+    "3": "2021-12-13"
+  },
+  {
+    "rut": "18034182",
+    "0": "18034182",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-12-20",
+    "3": "2021-12-20"
+  },
+  {
+    "rut": "18037508",
+    "0": "18037508",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-04-11",
+    "3": "2022-04-11"
+  },
+  {
+    "rut": "18050514",
+    "0": "18050514",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "18050514",
+    "0": "18050514",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-09",
+    "3": "2022-03-09"
+  },
+  {
+    "rut": "18050514",
+    "0": "18050514",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "18064145",
+    "0": "18064145",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "18109382",
+    "0": "18109382",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "18109382",
+    "0": "18109382",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "18115912",
+    "0": "18115912",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "18115912",
+    "0": "18115912",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PARAMETROS",
+    "2": "PARAMETROS",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "18172267",
+    "0": "18172267",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "18172267",
+    "0": "18172267",
+    "dv": "3",
+    "1": "3",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "18211983",
+    "0": "18211983",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "18211983",
+    "0": "18211983",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "18221352",
+    "0": "18221352",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-04-11",
+    "3": "2022-04-11"
+  },
+  {
+    "rut": "18221592",
+    "0": "18221592",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "18221592",
+    "0": "18221592",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "18238463",
+    "0": "18238463",
+    "dv": "1",
+    "1": "1",
+    "servicio": "Coordinación Zona Metro Oriente",
+    "2": "Coordinación Zona Metro Oriente",
+    "inicio": "2021-11-02",
+    "3": "2021-11-02"
+  },
+  {
+    "rut": "18238463",
+    "0": "18238463",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "18238463",
+    "0": "18238463",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "18325759",
+    "0": "18325759",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CCR",
+    "2": "CCR",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "18325759",
+    "0": "18325759",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "18325759",
+    "0": "18325759",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2019-12-09",
+    "3": "2019-12-09"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORD. SENIOR-NORTE",
+    "2": "COORD. SENIOR-NORTE",
+    "inicio": "2021-07-26",
+    "3": "2021-07-26"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-06-08",
+    "3": "2020-06-08"
+  },
+  {
+    "rut": "18329545",
+    "0": "18329545",
+    "dv": "4",
+    "1": "4",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "18338478",
+    "0": "18338478",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "18338478",
+    "0": "18338478",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-03-28",
+    "3": "2022-03-28"
+  },
+  {
+    "rut": "18380031",
+    "0": "18380031",
+    "dv": "0",
+    "1": "0",
+    "servicio": "18380031-0",
+    "2": "18380031-0",
+    "inicio": "2022-06-13",
+    "3": "2022-06-13"
+  },
+  {
+    "rut": "18380031",
+    "0": "18380031",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "18403574",
+    "0": "18403574",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "18461646",
+    "0": "18461646",
+    "dv": "7",
+    "1": "7",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-12-13",
+    "3": "2021-12-13"
+  },
+  {
+    "rut": "18461646",
+    "0": "18461646",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-12-20",
+    "3": "2021-12-20"
+  },
+  {
+    "rut": "18468979",
+    "0": "18468979",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "18468979",
+    "0": "18468979",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "18468979",
+    "0": "18468979",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "18480819",
+    "0": "18480819",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ANALISIS Y DESARROLLO",
+    "2": "ANALISIS Y DESARROLLO",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "18480819",
+    "0": "18480819",
+    "dv": "6",
+    "1": "6",
+    "servicio": "REPORTING",
+    "2": "REPORTING",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "18487606",
+    "0": "18487606",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "18487606",
+    "0": "18487606",
+    "dv": "K",
+    "1": "K",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "18491930",
+    "0": "18491930",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-04-15",
+    "3": "2019-04-15"
+  },
+  {
+    "rut": "18491930",
+    "0": "18491930",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "18491930",
+    "0": "18491930",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "18491930",
+    "0": "18491930",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-06-08",
+    "3": "2020-06-08"
+  },
+  {
+    "rut": "18491930",
+    "0": "18491930",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2019-07-01",
+    "3": "2019-07-01"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-12-23",
+    "3": "2019-12-23"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-06-15",
+    "3": "2020-06-15"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-08",
+    "3": "2020-06-08"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "18532051",
+    "0": "18532051",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SENIOR CIO",
+    "2": "SENIOR CIO",
+    "inicio": "2022-05-01",
+    "3": "2022-05-01"
+  },
+  {
+    "rut": "18532617",
+    "0": "18532617",
+    "dv": "9",
+    "1": "9",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "18532617",
+    "0": "18532617",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-11-15",
+    "3": "2021-11-15"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "B2B - SWAP",
+    "2": "B2B - SWAP",
+    "inicio": "2019-03-25",
+    "3": "2019-03-25"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "B2B - SWAP METRO",
+    "2": "B2B - SWAP METRO",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-03-18",
+    "3": "2019-03-18"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-07-13",
+    "3": "2020-07-13"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-06-22",
+    "3": "2020-06-22"
+  },
+  {
+    "rut": "18540827",
+    "0": "18540827",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "18543889",
+    "0": "18543889",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "18543889",
+    "0": "18543889",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "18604880",
+    "0": "18604880",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "18610197",
+    "0": "18610197",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-11-02",
+    "3": "2020-11-02"
+  },
+  {
+    "rut": "18675234",
+    "0": "18675234",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-03-18",
+    "3": "2019-03-18"
+  },
+  {
+    "rut": "18675234",
+    "0": "18675234",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "18675234",
+    "0": "18675234",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-04-01",
+    "3": "2019-04-01"
+  },
+  {
+    "rut": "18675234",
+    "0": "18675234",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "18675234",
+    "0": "18675234",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2019-07-22",
+    "3": "2019-07-22"
+  },
+  {
+    "rut": "18690844",
+    "0": "18690844",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-10-01",
+    "3": "2022-10-01"
+  },
+  {
+    "rut": "18690844",
+    "0": "18690844",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-01-14",
+    "3": "2019-01-14"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-11-19",
+    "3": "2018-11-19"
+  },
+  {
+    "rut": "18731438",
+    "0": "18731438",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-09-14",
+    "3": "2020-09-14"
+  },
+  {
+    "rut": "18755322",
+    "0": "18755322",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "18755322",
+    "0": "18755322",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "18755520",
+    "0": "18755520",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORD. SENIOR-NORTE",
+    "2": "COORD. SENIOR-NORTE",
+    "inicio": "2021-02-01",
+    "3": "2021-02-01"
+  },
+  {
+    "rut": "18755520",
+    "0": "18755520",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "18755520",
+    "0": "18755520",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "18755520",
+    "0": "18755520",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SOPORTE FTTH",
+    "2": "SOPORTE FTTH",
+    "inicio": "2022-08-10",
+    "3": "2022-08-10"
+  },
+  {
+    "rut": "18773542",
+    "0": "18773542",
+    "dv": "4",
+    "1": "4",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-10-08",
+    "3": "2018-10-08"
+  },
+  {
+    "rut": "18773542",
+    "0": "18773542",
+    "dv": "4",
+    "1": "4",
+    "servicio": "SELECCIÓN",
+    "2": "SELECCIÓN",
+    "inicio": "2018-12-03",
+    "3": "2018-12-03"
+  },
+  {
+    "rut": "18773542",
+    "0": "18773542",
+    "dv": "4",
+    "1": "4",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-10-29",
+    "3": "2018-10-29"
+  },
+  {
+    "rut": "18789735",
+    "0": "18789735",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "18789735",
+    "0": "18789735",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-09-30",
+    "3": "2019-09-30"
+  },
+  {
+    "rut": "18789735",
+    "0": "18789735",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-11-09",
+    "3": "2020-11-09"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORD. SENIOR-NORTE",
+    "2": "COORD. SENIOR-NORTE",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "18798047",
+    "0": "18798047",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-03-18",
+    "3": "2019-03-18"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2019-01-14",
+    "3": "2019-01-14"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "BACK OFFICE ATENCION CLIENTE",
+    "2": "BACK OFFICE ATENCION CLIENTE",
+    "inicio": "2019-04-01",
+    "3": "2019-04-01"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-03-04",
+    "3": "2019-03-04"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-07-05",
+    "3": "2021-07-05"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "SENIOR ATENCION CLIENTES",
+    "2": "SENIOR ATENCION CLIENTES",
+    "inicio": "2019-12-30",
+    "3": "2019-12-30"
+  },
+  {
+    "rut": "18992346",
+    "0": "18992346",
+    "dv": "5",
+    "1": "5",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2019-01-21",
+    "3": "2019-01-21"
+  },
+  {
+    "rut": "19006170",
+    "0": "19006170",
+    "dv": "1",
+    "1": "1",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-03-07",
+    "3": "2018-03-07"
+  },
+  {
+    "rut": "19006170",
+    "0": "19006170",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-11-15",
+    "3": "2021-11-15"
+  },
+  {
+    "rut": "19006170",
+    "0": "19006170",
+    "dv": "1",
+    "1": "1",
+    "servicio": "PARAMETROS",
+    "2": "PARAMETROS",
+    "inicio": "2018-05-07",
+    "3": "2018-05-07"
+  },
+  {
+    "rut": "19023704",
+    "0": "19023704",
+    "dv": "4",
+    "1": "4",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-12-06",
+    "3": "2021-12-06"
+  },
+  {
+    "rut": "19023704",
+    "0": "19023704",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "19023704",
+    "0": "19023704",
+    "dv": "4",
+    "1": "4",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACITACION",
+    "2": "CAPACITACION",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORD.CENTRO (A)",
+    "2": "COORD.CENTRO (A)",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-05-06",
+    "3": "2019-05-06"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "19024384",
+    "0": "19024384",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2020-02-17",
+    "3": "2020-02-17"
+  },
+  {
+    "rut": "19034331",
+    "0": "19034331",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "19034331",
+    "0": "19034331",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-SUR",
+    "2": "COORDINADOR-SUR",
+    "inicio": "2020-02-03",
+    "3": "2020-02-03"
+  },
+  {
+    "rut": "19034331",
+    "0": "19034331",
+    "dv": "6",
+    "1": "6",
+    "servicio": "NUEVOS INGRESOS",
+    "2": "NUEVOS INGRESOS",
+    "inicio": "2019-11-18",
+    "3": "2019-11-18"
+  },
+  {
+    "rut": "19034331",
+    "0": "19034331",
+    "dv": "6",
+    "1": "6",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-11-02",
+    "3": "2020-11-02"
+  },
+  {
+    "rut": "19056860",
+    "0": "19056860",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "19056860",
+    "0": "19056860",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-07-05",
+    "3": "2021-07-05"
+  },
+  {
+    "rut": "19056860",
+    "0": "19056860",
+    "dv": "1",
+    "1": "1",
+    "servicio": "WISA",
+    "2": "WISA",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "19057963",
+    "0": "19057963",
+    "dv": "8",
+    "1": "8",
+    "servicio": "",
+    "2": "",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "19057963",
+    "0": "19057963",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-05-16",
+    "3": "2022-05-16"
+  },
+  {
+    "rut": "19057963",
+    "0": "19057963",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "19092861",
+    "0": "19092861",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "19092861",
+    "0": "19092861",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "19092861",
+    "0": "19092861",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-01",
+    "3": "2021-03-01"
+  },
+  {
+    "rut": "19135754",
+    "0": "19135754",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-06-13",
+    "3": "2022-06-13"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "APOYO ATC",
+    "2": "APOYO ATC",
+    "inicio": "2020-04-20",
+    "3": "2020-04-20"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-06-15",
+    "3": "2020-06-15"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2020-01-27",
+    "3": "2020-01-27"
+  },
+  {
+    "rut": "19165237",
+    "0": "19165237",
+    "dv": "1",
+    "1": "1",
+    "servicio": "NUEVOS INGRESOS",
+    "2": "NUEVOS INGRESOS",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "19171751",
+    "0": "19171751",
+    "dv": "1",
+    "1": "1",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "19171751",
+    "0": "19171751",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-07-13",
+    "3": "2020-07-13"
+  },
+  {
+    "rut": "19171751",
+    "0": "19171751",
+    "dv": "1",
+    "1": "1",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-05-16",
+    "3": "2022-05-16"
+  },
+  {
+    "rut": "19183065",
+    "0": "19183065",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "19183065",
+    "0": "19183065",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-03-21",
+    "3": "2022-03-21"
+  },
+  {
+    "rut": "19183065",
+    "0": "19183065",
+    "dv": "2",
+    "1": "2",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-05-02",
+    "3": "2022-05-02"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-11-12",
+    "3": "2018-11-12"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADOR-MET.OTE",
+    "2": "COORDINADOR-MET.OTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "19184394",
+    "0": "19184394",
+    "dv": "0",
+    "1": "0",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-11-19",
+    "3": "2018-11-19"
+  },
+  {
+    "rut": "19186176",
+    "0": "19186176",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-08-23",
+    "3": "2021-08-23"
+  },
+  {
+    "rut": "19186176",
+    "0": "19186176",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "19186176",
+    "0": "19186176",
+    "dv": "0",
+    "1": "0",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "19188762",
+    "0": "19188762",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "19188762",
+    "0": "19188762",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "19188762",
+    "0": "19188762",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-09-01",
+    "3": "2022-09-01"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "APOYO ATC",
+    "2": "APOYO ATC",
+    "inicio": "2020-04-20",
+    "3": "2020-04-20"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2019-02-11",
+    "3": "2019-02-11"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CAPACITACION ANDES",
+    "2": "CAPACITACION ANDES",
+    "inicio": "2019-02-18",
+    "3": "2019-02-18"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "CONFIRMACION-METRO",
+    "2": "CONFIRMACION-METRO",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-MET.SUR",
+    "2": "COORDINADOR-MET.SUR",
+    "inicio": "2019-11-11",
+    "3": "2019-11-11"
+  },
+  {
+    "rut": "19236859",
+    "0": "19236859",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINADOR-METRO",
+    "2": "COORDINADOR-METRO",
+    "inicio": "2019-04-22",
+    "3": "2019-04-22"
+  },
+  {
+    "rut": "19394543",
+    "0": "19394543",
+    "dv": "0",
+    "1": "0",
+    "servicio": "Capacitación",
+    "2": "Capacitación",
+    "inicio": "2021-11-08",
+    "3": "2021-11-08"
+  },
+  {
+    "rut": "19394543",
+    "0": "19394543",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2021-12-01",
+    "3": "2021-12-01"
+  },
+  {
+    "rut": "19394543",
+    "0": "19394543",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-11-15",
+    "3": "2021-11-15"
+  },
+  {
+    "rut": "19394543",
+    "0": "19394543",
+    "dv": "0",
+    "1": "0",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-06-29",
+    "3": "2020-06-29"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "PILOTO RECONEXION",
+    "2": "PILOTO RECONEXION",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-07-06",
+    "3": "2020-07-06"
+  },
+  {
+    "rut": "19406541",
+    "0": "19406541",
+    "dv": "8",
+    "1": "8",
+    "servicio": "WISA",
+    "2": "WISA",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "19507488",
+    "0": "19507488",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "19507488",
+    "0": "19507488",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-05-19",
+    "3": "2021-05-19"
+  },
+  {
+    "rut": "19521871",
+    "0": "19521871",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "19521871",
+    "0": "19521871",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "19706083",
+    "0": "19706083",
+    "dv": "2",
+    "1": "2",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-12-13",
+    "3": "2021-12-13"
+  },
+  {
+    "rut": "19706083",
+    "0": "19706083",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "19706083",
+    "0": "19706083",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINADOR-MET.OTE",
+    "2": "COORDINADOR-MET.OTE",
+    "inicio": "2020-01-06",
+    "3": "2020-01-06"
+  },
+  {
+    "rut": "19706083",
+    "0": "19706083",
+    "dv": "2",
+    "1": "2",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "19706083",
+    "0": "19706083",
+    "dv": "2",
+    "1": "2",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "20041384",
+    "0": "20041384",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "20149371",
+    "0": "20149371",
+    "dv": "4",
+    "1": "4",
+    "servicio": "",
+    "2": "",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "20149371",
+    "0": "20149371",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-03-21",
+    "3": "2022-03-21"
+  },
+  {
+    "rut": "20340826",
+    "0": "20340826",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "20579117",
+    "0": "20579117",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "20579117",
+    "0": "20579117",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "21869611",
+    "0": "21869611",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "AVAR N2",
+    "2": "AVAR N2",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "BACKOFFICE COORDINADORES",
+    "2": "BACKOFFICE COORDINADORES",
+    "inicio": "2019-02-27",
+    "3": "2019-02-27"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2017-09-18",
+    "3": "2017-09-18"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "BLINDAJE N2",
+    "2": "BLINDAJE N2",
+    "inicio": "2017-09-14",
+    "3": "2017-09-14"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORD. SENIOR-CENTRO",
+    "2": "COORD. SENIOR-CENTRO",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADOR SENIOR - CENTRO",
+    "2": "COORDINADOR SENIOR - CENTRO",
+    "inicio": "2019-10-07",
+    "3": "2019-10-07"
+  },
+  {
+    "rut": "23590775",
+    "0": "23590775",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "23600304",
+    "0": "23600304",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "23600304",
+    "0": "23600304",
+    "dv": "3",
+    "1": "3",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2021-06-21",
+    "3": "2021-06-21"
+  },
+  {
+    "rut": "24472124",
+    "0": "24472124",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-07",
+    "3": "2022-03-07"
+  },
+  {
+    "rut": "24472124",
+    "0": "24472124",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "25009320",
+    "0": "25009320",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-01-11",
+    "3": "2021-01-11"
+  },
+  {
+    "rut": "25009320",
+    "0": "25009320",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2022-01-31",
+    "3": "2022-01-31"
+  },
+  {
+    "rut": "25009320",
+    "0": "25009320",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "25009320",
+    "0": "25009320",
+    "dv": "9",
+    "1": "9",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "25234955",
+    "0": "25234955",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-04-24",
+    "3": "2022-04-24"
+  },
+  {
+    "rut": "25357515",
+    "0": "25357515",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "25593981",
+    "0": "25593981",
+    "dv": "5",
+    "1": "5",
+    "servicio": "ANALISIS Y DESARROLLO",
+    "2": "ANALISIS Y DESARROLLO",
+    "inicio": "2020-12-14",
+    "3": "2020-12-14"
+  },
+  {
+    "rut": "25593981",
+    "0": "25593981",
+    "dv": "5",
+    "1": "5",
+    "servicio": "REPORTING",
+    "2": "REPORTING",
+    "inicio": "2021-04-19",
+    "3": "2021-04-19"
+  },
+  {
+    "rut": "25614028",
+    "0": "25614028",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-12",
+    "3": "2022-01-12"
+  },
+  {
+    "rut": "25614028",
+    "0": "25614028",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-11-30",
+    "3": "2020-11-30"
+  },
+  {
+    "rut": "25801529",
+    "0": "25801529",
+    "dv": "0",
+    "1": "0",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "25801529",
+    "0": "25801529",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "25801529",
+    "0": "25801529",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "APOYO ATC",
+    "2": "APOYO ATC",
+    "inicio": "2020-04-20",
+    "3": "2020-04-20"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-05-14",
+    "3": "2018-05-14"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-05-08",
+    "3": "2018-05-08"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-06-08",
+    "3": "2020-06-08"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-25",
+    "3": "2022-04-25"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TANGO REGIONES",
+    "2": "TANGO REGIONES",
+    "inicio": "2019-08-12",
+    "3": "2019-08-12"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-05-21",
+    "3": "2018-05-21"
+  },
+  {
+    "rut": "25822602",
+    "0": "25822602",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TORRE TANGO",
+    "2": "TORRE TANGO",
+    "inicio": "2019-11-04",
+    "3": "2019-11-04"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-07-04",
+    "3": "2018-07-04"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "AVAR N2",
+    "2": "AVAR N2",
+    "inicio": "2018-07-30",
+    "3": "2018-07-30"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2021-09-06",
+    "3": "2021-09-06"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "GESTION COMERCIAL",
+    "2": "GESTION COMERCIAL",
+    "inicio": "2020-03-30",
+    "3": "2020-03-30"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOP COMERCIAL",
+    "2": "SOP COMERCIAL",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "25841679",
+    "0": "25841679",
+    "dv": "1",
+    "1": "1",
+    "servicio": "VENTAS",
+    "2": "VENTAS",
+    "inicio": "2019-03-01",
+    "3": "2019-03-01"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ANDES REAGENDAMIENTO",
+    "2": "ANDES REAGENDAMIENTO",
+    "inicio": "2018-07-30",
+    "3": "2018-07-30"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-07-04",
+    "3": "2018-07-04"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CONFIRMACION",
+    "2": "CONFIRMACION",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CONFIRMACION-NORTE",
+    "2": "CONFIRMACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-06-08",
+    "3": "2020-06-08"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-04-29",
+    "3": "2019-04-29"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-12-10",
+    "3": "2018-12-10"
+  },
+  {
+    "rut": "25907259",
+    "0": "25907259",
+    "dv": "K",
+    "1": "K",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ANDES ESCALAMIENTO",
+    "2": "ANDES ESCALAMIENTO",
+    "inicio": "2018-08-13",
+    "3": "2018-08-13"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ANDES SOPORTE",
+    "2": "ANDES SOPORTE",
+    "inicio": "2018-07-16",
+    "3": "2018-07-16"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "AVAR",
+    "2": "AVAR",
+    "inicio": "2018-05-15",
+    "3": "2018-05-15"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2018-08-20",
+    "3": "2018-08-20"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2019-02-04",
+    "3": "2019-02-04"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "SUPERVISOR",
+    "2": "SUPERVISOR",
+    "inicio": "2019-07-15",
+    "3": "2019-07-15"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "SUPERVISOR TANGO",
+    "2": "SUPERVISOR TANGO",
+    "inicio": "2019-07-22",
+    "3": "2019-07-22"
+  },
+  {
+    "rut": "25914972",
+    "0": "25914972",
+    "dv": "K",
+    "1": "K",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-06-11",
+    "3": "2018-06-11"
+  },
+  {
+    "rut": "25982489",
+    "0": "25982489",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-09-20",
+    "3": "2021-09-20"
+  },
+  {
+    "rut": "26003376",
+    "0": "26003376",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-09-26",
+    "3": "2022-09-26"
+  },
+  {
+    "rut": "26003376",
+    "0": "26003376",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "26017711",
+    "0": "26017711",
+    "dv": "7",
+    "1": "7",
+    "servicio": "BLINDAJE",
+    "2": "BLINDAJE",
+    "inicio": "2018-03-19",
+    "3": "2018-03-19"
+  },
+  {
+    "rut": "26017711",
+    "0": "26017711",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "26017711",
+    "0": "26017711",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINADOR-NORTE",
+    "2": "COORDINADOR-NORTE",
+    "inicio": "2019-09-16",
+    "3": "2019-09-16"
+  },
+  {
+    "rut": "26017711",
+    "0": "26017711",
+    "dv": "7",
+    "1": "7",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-04-16",
+    "3": "2018-04-16"
+  },
+  {
+    "rut": "26085443",
+    "0": "26085443",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-08-10",
+    "3": "2020-08-10"
+  },
+  {
+    "rut": "26085443",
+    "0": "26085443",
+    "dv": "7",
+    "1": "7",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-05-19",
+    "3": "2021-05-19"
+  },
+  {
+    "rut": "26085443",
+    "0": "26085443",
+    "dv": "7",
+    "1": "7",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-07-27",
+    "3": "2020-07-27"
+  },
+  {
+    "rut": "26172541",
+    "0": "26172541",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-01-04",
+    "3": "2021-01-04"
+  },
+  {
+    "rut": "26206227",
+    "0": "26206227",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2021-03-22",
+    "3": "2021-03-22"
+  },
+  {
+    "rut": "26206227",
+    "0": "26206227",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-06-22",
+    "3": "2021-06-22"
+  },
+  {
+    "rut": "26206227",
+    "0": "26206227",
+    "dv": "9",
+    "1": "9",
+    "servicio": "WISA",
+    "2": "WISA",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "26264160",
+    "0": "26264160",
+    "dv": "0",
+    "1": "0",
+    "servicio": "APOQUINDO",
+    "2": "APOQUINDO",
+    "inicio": "2021-08-23",
+    "3": "2021-08-23"
+  },
+  {
+    "rut": "26264160",
+    "0": "26264160",
+    "dv": "0",
+    "1": "0",
+    "servicio": "REDES",
+    "2": "REDES",
+    "inicio": "2018-06-04",
+    "3": "2018-06-04"
+  },
+  {
+    "rut": "26264160",
+    "0": "26264160",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-08-01",
+    "3": "2022-08-01"
+  },
+  {
+    "rut": "26264160",
+    "0": "26264160",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE TECNICO",
+    "2": "SOPORTE TECNICO",
+    "inicio": "2018-11-05",
+    "3": "2018-11-05"
+  },
+  {
+    "rut": "26264160",
+    "0": "26264160",
+    "dv": "0",
+    "1": "0",
+    "servicio": "SOPORTE TECNICO 2",
+    "2": "SOPORTE TECNICO 2",
+    "inicio": "2018-08-27",
+    "3": "2018-08-27"
+  },
+  {
+    "rut": "26277034",
+    "0": "26277034",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2020-07-20",
+    "3": "2020-07-20"
+  },
+  {
+    "rut": "26294336",
+    "0": "26294336",
+    "dv": "4",
+    "1": "4",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-11-09",
+    "3": "2020-11-09"
+  },
+  {
+    "rut": "26294336",
+    "0": "26294336",
+    "dv": "4",
+    "1": "4",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2021-06-14",
+    "3": "2021-06-14"
+  },
+  {
+    "rut": "26294336",
+    "0": "26294336",
+    "dv": "4",
+    "1": "4",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-05-02",
+    "3": "2022-05-02"
+  },
+  {
+    "rut": "26295567",
+    "0": "26295567",
+    "dv": "2",
+    "1": "2",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-08-31",
+    "3": "2020-08-31"
+  },
+  {
+    "rut": "26295567",
+    "0": "26295567",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-05-24",
+    "3": "2021-05-24"
+  },
+  {
+    "rut": "26295567",
+    "0": "26295567",
+    "dv": "2",
+    "1": "2",
+    "servicio": "POR DESIGNAR",
+    "2": "POR DESIGNAR",
+    "inicio": "2020-08-24",
+    "3": "2020-08-24"
+  },
+  {
+    "rut": "26295567",
+    "0": "26295567",
+    "dv": "2",
+    "1": "2",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "26325010",
+    "0": "26325010",
+    "dv": "9",
+    "1": "9",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-04-01",
+    "3": "2020-04-01"
+  },
+  {
+    "rut": "26325010",
+    "0": "26325010",
+    "dv": "9",
+    "1": "9",
+    "servicio": "CONFIRMACION-SUR",
+    "2": "CONFIRMACION-SUR",
+    "inicio": "2020-05-25",
+    "3": "2020-05-25"
+  },
+  {
+    "rut": "26325010",
+    "0": "26325010",
+    "dv": "9",
+    "1": "9",
+    "servicio": "COORDINACION-SUR",
+    "2": "COORDINACION-SUR",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "26325010",
+    "0": "26325010",
+    "dv": "9",
+    "1": "9",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-01-18",
+    "3": "2021-01-18"
+  },
+  {
+    "rut": "26325010",
+    "0": "26325010",
+    "dv": "9",
+    "1": "9",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-05-02",
+    "3": "2022-05-02"
+  },
+  {
+    "rut": "26357162",
+    "0": "26357162",
+    "dv": "2",
+    "1": "2",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-08-30",
+    "3": "2021-08-30"
+  },
+  {
+    "rut": "26357162",
+    "0": "26357162",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "26441864",
+    "0": "26441864",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "26459544",
+    "0": "26459544",
+    "dv": "4",
+    "1": "4",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "26459544",
+    "0": "26459544",
+    "dv": "4",
+    "1": "4",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-08",
+    "3": "2021-02-08"
+  },
+  {
+    "rut": "26459544",
+    "0": "26459544",
+    "dv": "4",
+    "1": "4",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "26459544",
+    "0": "26459544",
+    "dv": "4",
+    "1": "4",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2021-03-01",
+    "3": "2021-03-01"
+  },
+  {
+    "rut": "26459544",
+    "0": "26459544",
+    "dv": "4",
+    "1": "4",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "26497854",
+    "0": "26497854",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-12-07",
+    "3": "2020-12-07"
+  },
+  {
+    "rut": "26655815",
+    "0": "26655815",
+    "dv": "5",
+    "1": "5",
+    "servicio": "FTTH",
+    "2": "FTTH",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "26658838",
+    "0": "26658838",
+    "dv": "0",
+    "1": "0",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2021-11-01",
+    "3": "2021-11-01"
+  },
+  {
+    "rut": "26680935",
+    "0": "26680935",
+    "dv": "2",
+    "1": "2",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2020-11-30",
+    "3": "2020-11-30"
+  },
+  {
+    "rut": "26694925",
+    "0": "26694925",
+    "dv": "1",
+    "1": "1",
+    "servicio": "PROYECTO SIX",
+    "2": "PROYECTO SIX",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "26694925",
+    "0": "26694925",
+    "dv": "1",
+    "1": "1",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2020-11-02",
+    "3": "2020-11-02"
+  },
+  {
+    "rut": "26706671",
+    "0": "26706671",
+    "dv": "K",
+    "1": "K",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2020-11-30",
+    "3": "2020-11-30"
+  },
+  {
+    "rut": "26706671",
+    "0": "26706671",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-05-19",
+    "3": "2021-05-19"
+  },
+  {
+    "rut": "26804532",
+    "0": "26804532",
+    "dv": "5",
+    "1": "5",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "26996019",
+    "0": "26996019",
+    "dv": "1",
+    "1": "1",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-04-11",
+    "3": "2022-04-11"
+  },
+  {
+    "rut": "27003077",
+    "0": "27003077",
+    "dv": "7",
+    "1": "7",
+    "servicio": "CAPACIDAD Y CUOTA",
+    "2": "CAPACIDAD Y CUOTA",
+    "inicio": "2021-07-12",
+    "3": "2021-07-12"
+  },
+  {
+    "rut": "27003077",
+    "0": "27003077",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "27003077",
+    "0": "27003077",
+    "dv": "7",
+    "1": "7",
+    "servicio": "PROYECTO SIX",
+    "2": "PROYECTO SIX",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "27061404",
+    "0": "27061404",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2021-03-08",
+    "3": "2021-03-08"
+  },
+  {
+    "rut": "27063528",
+    "0": "27063528",
+    "dv": "8",
+    "1": "8",
+    "servicio": "COORDINACION-SUR ORIENTE",
+    "2": "COORDINACION-SUR ORIENTE",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "27097354",
+    "0": "27097354",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-CENTRO",
+    "2": "COORDINACION-CENTRO",
+    "inicio": "2021-03-15",
+    "3": "2021-03-15"
+  },
+  {
+    "rut": "27097354",
+    "0": "27097354",
+    "dv": "K",
+    "1": "K",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2021-05-10",
+    "3": "2021-05-10"
+  },
+  {
+    "rut": "27097354",
+    "0": "27097354",
+    "dv": "K",
+    "1": "K",
+    "servicio": "PROYECTO CIO",
+    "2": "PROYECTO CIO",
+    "inicio": "2022-04-01",
+    "3": "2022-04-01"
+  },
+  {
+    "rut": "27135923",
+    "0": "27135923",
+    "dv": "3",
+    "1": "3",
+    "servicio": "CAPACITACIÓN",
+    "2": "CAPACITACIÓN",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "27135923",
+    "0": "27135923",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-03-14",
+    "3": "2022-03-14"
+  },
+  {
+    "rut": "27173123",
+    "0": "27173123",
+    "dv": "K",
+    "1": "K",
+    "servicio": "APOYO GSA",
+    "2": "APOYO GSA",
+    "inicio": "2022-01-01",
+    "3": "2022-01-01"
+  },
+  {
+    "rut": "27173123",
+    "0": "27173123",
+    "dv": "K",
+    "1": "K",
+    "servicio": "CERTIFICACIONES",
+    "2": "CERTIFICACIONES",
+    "inicio": "2021-02-01",
+    "3": "2021-02-01"
+  },
+  {
+    "rut": "27173123",
+    "0": "27173123",
+    "dv": "K",
+    "1": "K",
+    "servicio": "SOPORTE REDES",
+    "2": "SOPORTE REDES",
+    "inicio": "2022-02-01",
+    "3": "2022-02-01"
+  },
+  {
+    "rut": "27192833",
+    "0": "27192833",
+    "dv": "5",
+    "1": "5",
+    "servicio": "COORDINACION-NORTE",
+    "2": "COORDINACION-NORTE",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "8326826",
+    "0": "8326826",
+    "dv": "3",
+    "1": "3",
+    "servicio": "APOYO ATC",
+    "2": "APOYO ATC",
+    "inicio": "2020-04-27",
+    "3": "2020-04-27"
+  },
+  {
+    "rut": "8326826",
+    "0": "8326826",
+    "dv": "3",
+    "1": "3",
+    "servicio": "DESCONEXIONES",
+    "2": "DESCONEXIONES",
+    "inicio": "2020-05-18",
+    "3": "2020-05-18"
+  },
+  {
+    "rut": "8326826",
+    "0": "8326826",
+    "dv": "3",
+    "1": "3",
+    "servicio": "MONITOREO",
+    "2": "MONITOREO",
+    "inicio": "2018-06-11",
+    "3": "2018-06-11"
+  },
+  {
+    "rut": "8326826",
+    "0": "8326826",
+    "dv": "3",
+    "1": "3",
+    "servicio": "PARAMETROS",
+    "2": "PARAMETROS",
+    "inicio": "2019-03-13",
+    "3": "2019-03-13"
+  },
+  {
+    "rut": "8896055",
+    "0": "8896055",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-ORIENTE",
+    "2": "COORDINACION-ORIENTE",
+    "inicio": "2022-04-18",
+    "3": "2022-04-18"
+  },
+  {
+    "rut": "8896055",
+    "0": "8896055",
+    "dv": "6",
+    "1": "6",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2022-06-01",
+    "3": "2022-06-01"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2020-10-12",
+    "3": "2020-10-12"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORD. SENIOR-SUR ORIENTE",
+    "2": "COORD. SENIOR-SUR ORIENTE",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-06-01",
+    "3": "2020-06-01"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-CENTRO",
+    "2": "COORDINADOR-CENTRO",
+    "inicio": "2019-04-08",
+    "3": "2019-04-08"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADOR-MET.PTE",
+    "2": "COORDINADOR-MET.PTE",
+    "inicio": "2019-05-20",
+    "3": "2019-05-20"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "COORDINADORES",
+    "2": "COORDINADORES",
+    "inicio": "2018-08-13",
+    "3": "2018-08-13"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "ESCUELA",
+    "2": "ESCUELA",
+    "inicio": "2022-07-25",
+    "3": "2022-07-25"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "SENIOR ESCUELA",
+    "2": "SENIOR ESCUELA",
+    "inicio": "2022-03-01",
+    "3": "2022-03-01"
+  },
+  {
+    "rut": "9094632",
+    "0": "9094632",
+    "dv": "3",
+    "1": "3",
+    "servicio": "TORRE ESCALAMIENTOS",
+    "2": "TORRE ESCALAMIENTOS",
+    "inicio": "2018-07-09",
+    "3": "2018-07-09"
+  },
+  {
+    "rut": "9483779",
+    "0": "9483779",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORD. SENIOR-PONIENTE",
+    "2": "COORD. SENIOR-PONIENTE",
+    "inicio": "2021-10-18",
+    "3": "2021-10-18"
+  },
+  {
+    "rut": "9483779",
+    "0": "9483779",
+    "dv": "0",
+    "1": "0",
+    "servicio": "COORDINACION-PONIENTE",
+    "2": "COORDINACION-PONIENTE",
+    "inicio": "2020-07-20",
+    "3": "2020-07-20"
+  },
+  {
+    "rut": "9774186",
+    "0": "9774186",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ATENCION CLIENTES",
+    "2": "ATENCION CLIENTES",
+    "inicio": "2019-02-25",
+    "3": "2019-02-25"
+  },
+  {
+    "rut": "9774186",
+    "0": "9774186",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTO Y RECLAMOS",
+    "2": "ESCALAMIENTO Y RECLAMOS",
+    "inicio": "2021-04-05",
+    "3": "2021-04-05"
+  },
+  {
+    "rut": "9774186",
+    "0": "9774186",
+    "dv": "7",
+    "1": "7",
+    "servicio": "ESCALAMIENTOS Y RECLAMOS",
+    "2": "ESCALAMIENTOS Y RECLAMOS",
+    "inicio": "2020-03-23",
+    "3": "2020-03-23"
+  },
+  {
+    "rut": "9774186",
+    "0": "9774186",
+    "dv": "7",
+    "1": "7",
+    "servicio": "REAGENDAMIENTO",
+    "2": "REAGENDAMIENTO",
+    "inicio": "2018-10-22",
+    "3": "2018-10-22"
+  }
+]
